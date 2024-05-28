@@ -42,7 +42,8 @@ li {
   text-decoration: none;
 }
 
-#hero,form {
+#hero,
+form {
   display: flex;
   flex-direction: column;
   justify-content: center;
