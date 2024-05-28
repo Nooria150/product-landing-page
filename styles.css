@@ -42,7 +42,7 @@ li {
   text-decoration: none;
 }
 
-#hero, form {
+#hero,form {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -135,6 +135,7 @@ ol > li {
     flex-direction: column;
     align-items: center;
   }
+
   .product {
     width: 300px;
   }
