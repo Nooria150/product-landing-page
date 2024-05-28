@@ -42,7 +42,7 @@ li {
   text-decoration: none;
 }
 
-#hero,form {
+#hero, form {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -64,7 +64,7 @@ li {
   background-color: #f1c40f;
   border: none;
   font-weight: 900;
-  font-size: 1em; 
+  font-size: 1em;
 }
 
 .features {
@@ -135,7 +135,6 @@ ol > li {
     flex-direction: column;
     align-items: center;
   }
-  
   .product {
     width: 300px;
   }
