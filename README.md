@@ -6,7 +6,7 @@
 ## Demo 📸
 
 ![screenshort](./image/_C__Users_DELL_Desktop_product-landing-page_index.html%20(3).png)
-- live link: https://github.com/Nooria150/product-landing-page
+- [live demo](https://github.com/Nooria150/product-landing-page)
 
 ## Technologies Used 🛠️
 
